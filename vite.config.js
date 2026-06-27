@@ -6,3 +6,4 @@ export default defineConfig({
   plugins: [react()],
 })
 // vite config updated
+// vite config updated
