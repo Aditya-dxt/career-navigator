@@ -24,3 +24,4 @@
     "vite": "^8.1.0"
   }
 }
+// added: "preview": "vite preview"

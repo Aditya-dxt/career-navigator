@@ -1066,3 +1066,4 @@ export default function App() {
     </div>
   );
 }
+// step state: upload, target, analysis, dashboard
